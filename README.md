@@ -1,3 +1,3 @@
-# mitulty.github.io
+# karthikmbhat.github.io
 My Portfolio
-Goto https://mitulty.github.io/ to visit website.
+Goto https://karthikmbhat.github.io/ to visit website.
